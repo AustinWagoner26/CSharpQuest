@@ -4,6 +4,7 @@ C# Quest is a text-based role-playing game built using C# and .NET.
 
 The project was created to practice object-oriented programming,
 game logic, player interactions, and software development.
+This is still an ongoing project that I am going to improve on.
 
 ## Features
 
